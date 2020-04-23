@@ -25,7 +25,7 @@ There are many available metrics that measures a country's democracy development
 
 The project is on-going, and the current progress can be perused from the Jupyter Notebook on the repository.
 
-* [Link to Jypyter Notebook](https://github.com/thewchan/US-HigherEd_Foreign_Donations/blob/master/foreign_donations.ipynb)
+* [Link to Jupyter Notebook](https://github.com/thewchan/US-HigherEd_Foreign_Donations/blob/master/foreign_donations.ipynb)
 
 Below are some sample output graphs from data compilation.
 
