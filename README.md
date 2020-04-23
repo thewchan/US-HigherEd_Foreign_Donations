@@ -18,3 +18,17 @@ Foreign donations to universities in the US are self reported to the Federal Dep
 
 There are many available metrics that measures a country's democracy development and human rights status. The one chosen here is the [Democracy Index](https://en.wikipedia.org/wiki/Democracy_Index) developed by the [Economist Intelligence Unit](https://www.eiu.com/topic/democracy-index) (the research and analysis division of [The Economist Group](https://www.economistgroup.com/)). The Democracy Index is updated each year. Detailed measurement methodology are available on the accompanied white paper published by The Economist, which is [freely available](https://www.eiu.com/public/topical_report.aspx?campaignid=democracyindex2019). A copy is uploaded to the repository.
 
+* [2019 Democracy Index White Paper](https://github.com/thewchan/US-HigherEd_Foreign_Donations/blob/master/Democracy-Index-2019.pdf)
+
+
+### Sample Processed Data
+
+The project is on-going, and the current progress can be perused from the Jupyter Notebook on the repository.
+
+* [Link to Jypyter Notebook](https://github.com/thewchan/US-HigherEd_Foreign_Donations/blob/master/foreign_donations.ipynb)
+
+Below are some sample output graphs from data compilation.
+
+![Top 10 universities based on dollars of donations received from authoritarian countries (2012-2018)](image/top10_by_counts.png)
+
+![Top 10 universities based on dollars of cash donations received from authoritarian countries (2012-2018)](image/top10_by_dollars.png)
